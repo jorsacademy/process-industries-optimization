@@ -1,0 +1,18 @@
+schema_version: 1
+repository: process-industries-optimization
+role: umbrella
+axis: application
+area: process-industries
+status: active
+owner: jorsacademy
+projects:
+  - chemical-batch-process-design-minlp
+  - crude-oil-pipeline-network-optimization
+  - gas-processing-plant-milp-optimization-python
+  - oil-refinery-optimization-pulp
+  - transco-germanium-optimization-refining
+  - world-aluminum-investment-optimization
+conventions:
+  provenance_records: true
+  reproducibility_expected: true
+  benchmark_assumptions_documented: true
