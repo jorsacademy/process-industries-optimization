@@ -13,8 +13,9 @@ This repository is the primary umbrella repository for this Jors Academy researc
 - [`oil-refinery-optimization-pulp`](projects/oil-refinery-optimization-pulp/)
 - [`transco-germanium-optimization-refining`](projects/transco-germanium-optimization-refining/)
 - [`world-aluminum-investment-optimization`](projects/world-aluminum-investment-optimization/)
+- [`closed-loop-process-setpoint-optimization`](projects/closed-loop-process-setpoint-optimization/) — native constrained Bayesian optimization benchmark with process drift
 
-Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
+Consolidated source projects keep their own files and a `SOURCE_REPOSITORY.md` provenance record. The native closed-loop set-point project is maintained directly in this umbrella repository. Source snapshots preserve the original default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshots.
 <!-- portfolio-umbrella:end -->
 
 A compact linear programming model for a simplified petroleum refinery network using Python and PuLP.
